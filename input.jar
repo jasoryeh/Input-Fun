@@ -1,3 +1,5 @@
+//Note this is not the actual jar file
+
 package me.inputignhere;
 
 import org.bukkit.command.Command;
@@ -35,7 +37,7 @@ public class inputfun extends JavaPlugin{
 			p.addPotionEffect(new PotionEffect(PotionEffectType.SLOW_DIGGING, 200, 10));
 			p.addPotionEffect(new PotionEffect(PotionEffectType.WEAKNESS, 200, 10));
 			p.addPotionEffect(new PotionEffect(PotionEffectType.HEAL, 200, 10));
-			p.addPotionEffect(new PotionEffect(PotionEffectType.HARM, 200, 10));
+			p.addPotionEffect(new PotionEffect(PotionEffectType.HARM, 200, 2));
 		}
 		
 		
