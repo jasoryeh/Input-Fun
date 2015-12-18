@@ -6,7 +6,7 @@ A Minecraft Plugin I am working on that is supposed to relieve boredom for playe
 - A "Test" command that tests the plugin
 - A "IBelieveICanFly" command that lets you flyyyyy!
 - A "ExpPlz" command that gives you 30 levels for enchanting.
-- More Coming Soon!
+- More Coming Soon
 #Permissions
 - inputfun.doctorhelpme - Heals and feeds you but you may feel nauseous
 - inputfun.derpy - Releases your inner derpiness
