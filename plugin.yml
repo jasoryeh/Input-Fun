@@ -1,0 +1,46 @@
+name: InputFun
+desription: Fun commands for your players! It helps them and lets them do some derpy stuff.
+version: 1.2
+main: me.inputignhere.inputfun
+author: InputIGNHere aka JasorYEH
+website: www.jasoryeh.com
+softdepend: [EssentialsChat]
+commands:
+  test:
+    usage: /test
+    description: Gives you full health and responds to test message.
+    permission: inputfun.test
+  ibelieveicanfly:
+    usage: /ibelieveicanfly
+    description: I believe I can flyyyyy!
+    permission: inputfun.ibelieveicanfly
+  expplz:
+    usage: /expplz
+    description: Gives you 30 experience levels!
+    permission: inputfun.expplz
+  derpy:
+    usage: /derpy
+    description: Derps you!
+    permission: inputfun.derpy
+  doctorhelpme:
+    usage: /doctorhelpme
+    description: Heals you!
+    permission: inputfun.doctorhelpme
+permissions:
+  inputfun.*:
+    description: The Permission for all of the InputFun plugin commands!
+    default: false
+  inputfun.test:
+    description: Tests if the plugin is responding.
+    default: op
+  inputfun.ibelieveicanfly:
+    description: Allows the player to fly!!!
+    default: op
+  inputfun.expplz:
+    description: Gives the player 30 levels of experience!
+    default: op
+  inputfun.derpy:
+    description: Makes the player droopy and derpy. DERP!
+    default: op
+  inputfun.doctorhelpme:
+    description: Heals and feeds the player.
