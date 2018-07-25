@@ -1,6 +1,11 @@
 # InputFun
-
+```
 A Minecraft Plugin I am working on that is supposed to relieve boredom for players in-game. Hope ya enjoy it!
+```
+
+###### *Was* a project I was working on back in 2014 or somewhere around there, was one of the first plugins I have made, and the first, and only Bukkit plugin I posted on the plugins page on BukkitDev I thinl.
+
+*you may have noticed since it is a single class project*
 
 # Features
 
@@ -22,4 +27,5 @@ A Minecraft Plugin I am working on that is supposed to relieve boredom for playe
 
 #Future plans
 
-- I don't know yet :/
+- ```I don't know yet :/```
+- *Maybe*
