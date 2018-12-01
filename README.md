@@ -1,4 +1,7 @@
 # InputFun
+
+This project was created a while back as a "test" program, and is no longer actively maintained. I intended this to be a Bukkit plugin that I created for fun to test out my Java skills. Thanks for understanding.
+
 ```
 A Minecraft Plugin I am working on that is supposed to relieve boredom for players in-game. Hope ya enjoy it!
 ```
